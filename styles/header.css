@@ -89,8 +89,7 @@
     border-radius: 4px;
     font-size: 12px;
     font-family: Roboto, Arial;
-    top: 0px;
-    right: 10px;
+    bottom: -35px;
     opacity: 0;
     transition: opacity 0.15s;
     pointer-events: none;
